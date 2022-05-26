@@ -1,0 +1,18 @@
+{
+  "name": "learn nextjs",
+  "version": "0.0.1",
+  "description": "Learn nextjs using the official guide",
+  "main": "pages/indes.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "carlosblinf@gmail.com",
+  "dependencies": {
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
