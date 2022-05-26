@@ -1,7 +1,4 @@
 {
-  "name": "learn nextjs",
-  "version": "0.0.1",
-  "description": "Learn nextjs using the official guide",
   "private": true,
   "scripts": {
     "dev": "next dev",
