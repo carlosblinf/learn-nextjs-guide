@@ -1,7 +1,6 @@
-import Head from 'next/head';
-import Link from 'next/link';
-import Script from 'next/script';
-import Layout from '../../components/layout';
+import Layout from '../../components/layout'
+import Head from 'next/head'
+import Script from 'next/script'
 
 export default function FirstPost() {
   return (
