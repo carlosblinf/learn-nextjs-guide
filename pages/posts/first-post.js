@@ -1,5 +1,5 @@
-import Layout from '../../components/layout'
 import Head from 'next/head'
+import Layout from '../../components/layout_component'
 import Script from 'next/script'
 
 export default function FirstPost() {
